@@ -8,8 +8,8 @@ import java.awt.event.KeyEvent;
 import java.awt.event.KeyListener;
 
 /*
+made with help from this tutorial by Krohn - Education
 https://www.youtube.com/watch?v=9eQJAWhRHQg&feature=emb_logo
-
  */
 
 public class SnakeGame extends Applet implements Runnable, KeyListener {
